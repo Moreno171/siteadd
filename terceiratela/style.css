@@ -1,0 +1,115 @@
+body {
+    background-color: #C6CF86;
+    margin: 0;
+}
+
+
+
+.login{
+
+    position: absolute;
+width: 434px;
+height: 75px;
+left: 160px;
+top: 50px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 54px;
+
+color: #000000;
+
+}
+
+.logo01{
+
+    position: absolute;
+    width: 81px;
+    height: 83px;
+    left: 60px;
+    top: 50px;
+}
+
+.logo00{
+
+    position: absolute;
+    width: 131px;
+    height: 156px;
+    left: 1750px;
+    top: 22px;
+}
+
+.nome{
+
+    position: absolute;
+width: 242px;
+height: 38px;
+left: 73px;
+top: 200px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+
+color: #000000;
+}
+ 
+input{
+    height: 30px;
+    width: 500px;
+    border-radius: 30px;
+    
+}
+
+
+.senha{
+
+    position: absolute;
+    width: 68px; 
+    height: 38px;
+    left: 73px;
+    top: 328px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+
+    color: #000000;
+}
+
+
+
+.logo03{
+
+    position: absolute;
+    width: 604px;
+    height: 700px;
+    left: 1000px;
+    top: 150px;
+}
+
+.firmar{
+
+  position: absolute;
+        width: 100px;
+        height: 38px;
+        left: 480px;
+        top: 445px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 100;
+        font-size: 20px;
+        line-height: 36px;
+        border-radius: 38px;
+    
+        color: #000000;
+
+}
+
