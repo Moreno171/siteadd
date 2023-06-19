@@ -92,6 +92,26 @@ input{
     top: 150px;
 }
 
+.uuu{
+
+  position: absolute;
+  width: 100px;
+  height: 38px;
+  left: 480px;
+  top: 445px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100;
+  font-size: 20px;
+  line-height: 36px;
+  border-radius: 38px;
+
+  color: #000000;
+
+
+}
+
   /* .frame {
     width: 90%;
     margin: 40px auto;
